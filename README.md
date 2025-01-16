@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from EGYPT</h3>
 
 
-<p align="left"> <a href="https://twitter.com/ahmed150up" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed150up?logo=twitter&style=for-the-badge" alt="ahmed150up" /></a> </p>
 
 - 🔭 I’m currently working on [Avast Hosting](http://avasthosting.xyz)
 
