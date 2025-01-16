@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate frontend developer from EGYPT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed150up&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed150up" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmed150up" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed150up?logo=twitter&style=for-the-badge" alt="ahmed150up" /></a> </p>
 
