@@ -1,3 +1,28 @@
+![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
+<h3 align="center">A passionate frontend developer from EGYPT</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/732298455069884446/1329509286082117714/GLITCH_20250116192629.gif?ex=678a9982&is=67894802&hm=9503bb520db539849704b3f05f6d976f557aa0c9cfee9d879105cbf332342480&">
+
+
+- 🔭 I’m currently working on [Avast Hosting](http://avasthosting.xyz)
+
+- 👨‍💻 All of my projects are available at [SooN](SooN)
+
+- 📝 I regularly write articles on [Soon](Soon)
+
+- 📫 How to reach me **ahmed150up@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmed150up" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=201121358942" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="ahmed150up" height="30" width="40" /></a>
+<a href="https://uiverse.io/profile/ahmed150up" target="blank"><img align="center" src="https://uiverse.io/favicon-32x32.png" alt="ahmed150up" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed150up" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed150up" height="30" width="40" /></a>
+  <a href="https://mostaql.com/u/ENAhmed_M" target="blank"><img align="center" src="https://mostaql.hsoubcdn.com/public/assets/cards/favicon.png?id=54fb3580d899537f17f3cde78d3b24f8" alt="ahmed150up" height="30" width="40" /></a>
+  <a href="https://picalica.com/u/ENAhmed_M" target="blank"><img align="center" src="https://zaetoon.hsoubcdn.com/helpdesk/12/files/bc71a334-d34d-442a-9ae4-4fb86ffe6c4f.png" alt="ahmed150up" height="30" width="40" /></a>
+  <a href="https://khamsat.com/user/ahmed150up" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/khamsat-1.svg" alt="ahmed150up" height="30" width="40" /></a>
+</p>
 
 
   ## 💰Donating
