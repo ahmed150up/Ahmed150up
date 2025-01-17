@@ -27,7 +27,7 @@
 
   ## 💰Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahmed150up) 
-  ![Static Badge][(https://img.shields.io/badge/instapay-purple?style=for-the-badge)](https://ipn.eg/S/ahmed150up/instapay/4yShio)
+  ![PayPal][(https://img.shields.io/badge/instapay-purple?style=for-the-badge)](https://ipn.eg/S/ahmed150up/instapay/4yShio)
 
 
   # 💻 Tech Stack:
