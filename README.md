@@ -12,15 +12,7 @@
 
 - 📫 How to reach me **ahmed150up@hotmail.com**
 
-
-
-<br>
-
-
-
-
-
-               
+      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmed150up" height="40" width="40" /></a>
@@ -33,6 +25,9 @@
  <!-- <a href="https://khamsat.com/user/ahmed150up" target="blank"><img align="center" src="https://khamsat.hsoubcdn.com/assets/images/favicon-740117d323c70fbc071fefd88fbff2f0bb0746f995a2f852ac2d46bea229f212.png" alt="ahmed150up" height="40" width="40" /></a>
 </p> -->
 
+
+
+<br>
 
   ## 💰Support
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahmed150up) 
