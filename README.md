@@ -13,7 +13,7 @@
 - 📫 How to reach me **ahmed150up@hotmail.com**
 
       
-<h3 align="left">Connect with me:</h3>
+# 📞Connect with me:
 <p align="left">
 <a href="https://codepen.io/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmed150up" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=201121358942" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="ahmed150up" height="40" width="40" /></a>
