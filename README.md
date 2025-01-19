@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ahmed150up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed150up" height="30" width="40" /></a>
   <a href="https://mostaql.com/u/ENAhmed_M" target="blank"><img align="center" src="https://mostaql.hsoubcdn.com/public/assets/cards/favicon.png?id=54fb3580d899537f17f3cde78d3b24f8" alt="ahmed150up" height="30" width="40" /></a>
   <a href="https://picalica.com/u/ENAhmed_M" target="blank"><img align="center" src="https://zaetoon.hsoubcdn.com/helpdesk/12/files/bc71a334-d34d-442a-9ae4-4fb86ffe6c4f.png" alt="ahmed150up" height="30" width="40" /></a>
-  <a href="https://khamsat.com/user/ahmed150up" target="blank"><img align="center" src="https://github.com/ahmed150up/Ahmed150up/blob/main/icon/khma.png?raw=true" alt="ahmed150up" height="30" width="40" /></a>
+  <a href="https://khamsat.com/user/ahmed150up" target="blank"><img align="center" src="https://khamsat.hsoubcdn.com/assets/images/favicon-740117d323c70fbc071fefd88fbff2f0bb0746f995a2f852ac2d46bea229f212.png" alt="ahmed150up" height="30" width="40" /></a>
 </p>
 
 
