@@ -1,7 +1,7 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate frontend developer from EGYPT</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/732298455069884446/1329509286082117714/GLITCH_20250116192629.gif?ex=678a9982&is=67894802&hm=9503bb520db539849704b3f05f6d976f557aa0c9cfee9d879105cbf332342480&" style="z-index:1;">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/36691933796359378/898D96D78DD2F1E03F256BB76CCFE8CFC99884FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="z-index:1;">
 
 
 - 🔭 I’m currently working on [Avast Hosting](http://avasthosting.xyz)
