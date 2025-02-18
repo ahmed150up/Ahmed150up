@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Avast Hosting](http://avasthosting.xyz)
 
-- 👨‍💻 All of my projects are available at [SooN](SooN)
+- 👨‍💻 All of my projects are available at [ahmed150up](https://ahmed150up.site/)
 
 - 📝 I regularly write articles on [Soon](Soon)
 
