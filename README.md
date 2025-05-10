@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/36691933796359378/898D96D78DD2F1E03F256BB76CCFE8CFC99884FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="z-index:1;">
 
 
-- 🔭 I’m currently working on [Avast Hosting](http://avasthosting.xyz)
+- 🔭 I’m currently working on [freelancer](https://ahmed150up.site)
 
 - 👨‍💻 All of my projects are available at [ahmed150up](https://ahmed150up.site/)
 
-- 📝 I regularly write articles on [Soon](Soon)
+- 📝 I regularly write articles on [myblog](https://blog.ahmed150up.site)
 
 - 📫 How to reach me **ahmed150up@hotmail.com**
 
