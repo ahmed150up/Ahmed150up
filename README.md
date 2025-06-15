@@ -1,8 +1,7 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate frontend developer from EGYPT</h3>
-<img align="right" alt="Coding" width="400" src="htttps://i.ibb.co/Ld1fTMjt/150up.png" style="z-index:1;">
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed150up&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 - 🔭 I’m currently working on [freelancer](https://ahmed150up.site)
 
