@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ahmed150up](https://ahmed150up.com/)
 
-- 📝 I regularly write articles on [myblog](https://ahmed150up/blog.com)
+- 📝 I regularly write articles on [myblog](https://ahmed150up.com)
 
 - 📫 How to reach me **ahmed150up@hotmail.com**
 
